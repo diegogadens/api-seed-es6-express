@@ -1,0 +1,30 @@
+{
+  "name": "api-seed-es6-express",
+  "version": "0.0.1",
+  "description": "A starting point for Node.js APIs with Javascript ES6 and Express.js",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegogadens/api-seed-es6-express.git"
+  },
+  "author": "Diego Gadens",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/diegogadens/api-seed-es6-express.git#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-query-parser": "^1.0.2",
+    "mocha": "^5.1.1",
+    "nconf": "^0.10.0",
+    "seppuku": "^0.1.6",
+    "should": "^13.2.1",
+    "supertest": "^3.0.0"
+  }
+}
