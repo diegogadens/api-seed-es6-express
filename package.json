@@ -18,7 +18,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/diegogadens/api-seed-es6-express.git#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "express": "^4.16.3",
     "express-query-parser": "^1.0.2",
     "mocha": "^5.1.1",
