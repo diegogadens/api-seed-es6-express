@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "express-query-parser": "^1.0.2",
     "mocha": "^6.1.4",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "seppuku": "^0.1.6",
     "should": "^13.2.1",
     "supertest": "^4.0.2"
